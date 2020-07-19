@@ -16,7 +16,6 @@ class App extends Component {
 			//Pre-written array for colours that will be used throughout the app
 			colors: [
 				"#FF3333",
-				"#2fc2ff",
 				"#00acee",
 				"#ffa500",
 				"#ff337b",
